@@ -1,2 +1,2 @@
 # Titanic_Analysis-Jupyter_Notebook
-Essa análise consiste no estudo dos casos de 891 passageiros que estiveram a bordo do Titanic. O arquivo faz parte do projeto 2 que realizei no curso Fundamentos de Data Science I da Udacity.
+This is the analysis of 891 passengers of Titanic. The file is part of the project 2 of the nanodegree "Fundamentos de Data Science I" from the Udacity institution.
